@@ -5,7 +5,7 @@
 Java + Mysql + Servlet + Html/Css/Jquery + Redis + Tomcat8
 
 ### 工具
-IntelliJ IDEA
+IntelliJ IDEA + Maven
 
 ### 主要功能
 注册 + 登录 + 邮箱验证/激活 + 展示线路列表 + 查询线路详情 + 点击收藏
